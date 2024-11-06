@@ -2,7 +2,8 @@
 
 ---
 
-## 🚨 Parte prática do Spring Boot se encontra no caminho deste diretório: Java/spring-boot-java/src/main/java/com/spring
+> [!NOTE]
+> 🚨 Parte prática do Spring Boot se encontra no caminho deste diretório: Java/spring-boot-java/src/main/java/com/spring
 
 ---
 
