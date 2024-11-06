@@ -14,12 +14,14 @@ Este repositório visa ser uma fonte de referência para quem deseja aprender e 
 
 ---
 
-## 🚨 Este repositório é um **material de estudo pessoal** e não visa substituir os cursos da **DIO**, sendo uma forma de **revisar e consolidar** os conceitos aprendidos.
+> [!NOTE]
+> 🚨 Este repositório é um **material de estudo pessoal** e não visa substituir os cursos da **DIO**, sendo uma forma de **revisar e consolidar** os conceitos aprendidos.
 
 
 ---
 
-## 🚨 Importante!
+> [!NOTE]
+> 🚨 Importante!
 > Este repositório **não contém** todos os temas abordados durante o Bootcamp, como **Banco de Dados** e **Gerenciamento de Dependências**. Contudo, ele é uma excelente base de estudo para os conceitos abordados, principalmente na construção de **APIs REST** com **Spring Boot**.
 
 ---
