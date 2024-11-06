@@ -75,10 +75,4 @@ Este repositório é uma **compilação de resumos** e **explicações autorais*
 
 ---
 
-## 🚨 Importante!
 
-> Este repositório **não contém** todos os temas abordados durante o Bootcamp, como **Banco de Dados** e **Gerenciamento de Dependências**. Contudo, ele é uma excelente base de estudo para os conceitos abordados, principalmente na construção de **APIs REST** com **Spring Boot**.
-
----
-
-## 🌟 Como usar este repositóri
