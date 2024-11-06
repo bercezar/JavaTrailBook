@@ -1,7 +1,5 @@
 # Spring Boot:
 
----
-
 ## O que é?
 
 - É um framework destinado a automatizar a criação de aplicações Spring...
@@ -50,9 +48,6 @@ public class MyApp implements CommandLineRunner {
     }
 }
 
-
+```
 
 ## Component, Bean, Autowired
-
----
-```
