@@ -51,3 +51,15 @@ public class MyApp implements CommandLineRunner {
 ```
 
 ## Component, Bean, Autowired
+
+#### Bean
+
+- Um termo utilizado apenas para se referir a um objeto que será gerenciado pelo Spring. Como exemplo citado a cima, o @Component torna o bean, o objetogerenciado, significa que o Spring Boot instanciará a classe.
+
+#### Component
+
+- Usado para indicar que o Spring irá gerenciar a classe como um bean. Quando uma classe é anotada com @Component, ela é registrada automaticamente no Container de Inversão de Controle (IoC Container) do Spring. O IoC Container é responsável por instanciar, configurar e gerenciar os ciclos de vida dos objetos (beans) da aplicação.
+
+##### Autowired
+
+- Anotação usada para injetar automaticamente uma instância de um bean em outra classe, substituindo a necessidade de criar instâncias com o new.
