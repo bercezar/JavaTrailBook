@@ -6,7 +6,7 @@
 
 - É um framework destinado a automatizar a criação de aplicações Spring...
 
-## ok, mas para que serve e qual motivo de usar?
+## Ok, mas para que serve e qual motivo de usar?
 
 - Quando criamos classes e quando precisamos dela o do objeto no códig, necessitamos de seus instânciamento, de forma manual usando o new.
 
