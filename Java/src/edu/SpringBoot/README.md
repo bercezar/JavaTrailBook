@@ -8,6 +8,8 @@
 
 ### ok, mas para que serve e qual motivo de usar?
 
+---
+
 - Quando criamos classes e quando precisamos dela o do objeto no códig, necessitamos de seus instânciamento, de forma manual usando o new.
 
 ```java
@@ -53,3 +55,5 @@ public class MyApp implements CommandLineRunner {
 ```
 
 ## Component, Bean, Autowired
+
+---
