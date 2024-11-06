@@ -6,7 +6,9 @@ Este repositório documenta minha jornada de aprendizado, onde compilei explica�
 
 Este repositório visa ser uma fonte de referência para quem deseja aprender e se aprofundar nas tecnologias envolvidas no desenvolvimento de software moderno.
 
-## 🚨🚨 Este repositório é um **material de estudo pessoal** e não visa substituir os cursos da **DIO**, sendo uma forma de **revisar e consolidar** os conceitos aprendidos.
+
+
+## 🚨 Este repositório é um **material de estudo pessoal** e não visa substituir os cursos da **DIO**, sendo uma forma de **revisar e consolidar** os conceitos aprendidos.
 
 
 ---
