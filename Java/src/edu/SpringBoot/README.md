@@ -4,11 +4,11 @@
 
 ## O que é?
 
-> É um framework destinado a automatizar a criação de aplicações Spring...
+- É um framework destinado a automatizar a criação de aplicações Spring...
 
-### Tá.... Mas para que serve, qual motivo de usar?
+### ok, mas para que serve e qual motivo de usar?
 
-> Quando criamos classes e quando precisamos dela o do objeto no códig, necessitamos de seus instânciamento, de forma manual usando o new.
+- Quando criamos classes e quando precisamos dela o do objeto no códig, necessitamos de seus instânciamento, de forma manual usando o new.
 
 ```java
 public class Calculadora{
@@ -28,7 +28,7 @@ public class MyApp{
 
 ```
 
-> Com o spring boot, temos a facilidade e a reutilização do código:
+- Com o spring boot, temos a facilidade e a reutilização do código:
 
 ```java
 @Component
