@@ -59,5 +59,11 @@ public class DemoApplication implements CommandLineRunner {
         System.out.println("prototype1 == prototype2? " + (prototype1 == prototype2)); // false
     }
 }
-
+""
 ```
+
+- A principal diferença, resumidamente, está nas instâncias e os comportamentos delas em cada execução.
+
+- Imagine uma única impressora compartilhada por todos os computadores de um escritório. Não importa quantas vezes você "solicite a impressora", sempre será a mesma máquina. Isto é o singleton
+
+- Pense em xícaras de café em uma cafeteria. Cada pedido gera uma nova xícara; nenhuma é compartilhada. Isto é o prototype
